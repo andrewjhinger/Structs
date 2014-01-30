@@ -5,8 +5,8 @@ Windows console application
 
 ###Concepts used:
 
-Text..
+Struct Data Type, Enums, and Casting
 
 ###Functionality:
 
-Text..
+A form application illustrating how structs, enums, and castin work.
